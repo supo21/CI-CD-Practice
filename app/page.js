@@ -42,7 +42,7 @@ export default function HomePage() {
         <section className="heroContent">
           <div className="heroText">
             <p className="tag">#1 electronics destination</p>
-            <h1>Upgrade your lifestyle with next-gen electronics</h1>
+            <h1>Improve your lifestyle with next-gen electronics</h1>
             <p>
               Discover premium gadgets for work, gaming and home. Find top brands, exclusive offers and
               fast delivery at myshop.
